@@ -4,6 +4,6 @@ $dates = ['名前' => '玉ねぎ', '値段' => 200, '産地' => '北海道'];
 
 // foreach文とecho文を使って、キーと値を出力する
 foreach ($dates as $key => $value) {
-  echo $key . ':' . $value . '<br>';
+  echo $key . '：' . $value . '<br>';
 }
 ?>
